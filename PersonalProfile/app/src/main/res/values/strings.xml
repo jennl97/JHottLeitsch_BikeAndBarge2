@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">A Personal Profile of Jenn</string>
+    <string name="text_header">Jenn</string>
+    <string name="text_caption">Hi World! I am Jenn.</string>
+    <string name="button_view">View Profile</string>
+    <string name="text_bio">Jenn is an aspiring app developer. When she is not studying, she works as a Digital Media Ops Specialist,
+        being a mom and planning vacations in far away lands.</string>
+</resources>
